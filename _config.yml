@@ -1,0 +1,28 @@
+name: baird
+favicon: null
+layout_spectrum: 0.13124401890672743
+typography_spectrum: 0.39228395535610616
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7173887810204178
+  lightness: 0.40998139092698693
+  saturation: 0.01316554332152009
+  rhythmicContrast: 0.2627673309762031
+purpose: []
