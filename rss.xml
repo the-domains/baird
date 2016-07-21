@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[baird]]></title>
         <description><![CDATA[baird]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/baird/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 14:32:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 22:13:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/baird/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Biography Lorem Ipsom the quick brown fox jumps over the lazy dog.</p>]]></description>
-            <link>undefinedbiography-lorem-ipsom-the-quick-brown-fox-jumps-over-the-laz/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8c5d7c5-07df-491e-b26f-4d6c1b44e509.jpg">]]></description>
+            <link>https://thegrid.ai/baird/biography-lorem-ipsom-the-quick-brown-fox-jumps-over-the-laz/index.html</link>
             <guid isPermaLink="false">0af3f375-ea5d-4be0-b0a7-422e1a0cdea4</guid>
-            <pubDate>Wed, 20 Jul 2016 14:32:10 GMT</pubDate>
+            <pubDate>Thu, 21 Jul 2016 22:12:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
