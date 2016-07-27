@@ -1,19 +1,4 @@
-name: baird
-favicon: null
-layout_spectrum: 0.13124401890672743
 typography_spectrum: 0.39228395535610616
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.40998139092698693
   saturation: 0.01316554332152009
   rhythmicContrast: 0.2627673309762031
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.13124401890672743
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: baird
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Senior Advisor. Former Canadian Foreign Minister
 purpose: []
